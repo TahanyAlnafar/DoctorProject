@@ -31,6 +31,7 @@ import com.google.firebase.firestore.QuerySnapshot;
 
 import java.util.ArrayList;
 
+//عرض كل الموضوعات
 public class AllDoctorsActivity extends AppCompatActivity {
     ActivityAllDoctorsBinding binding;
     AllDoctorsAdapter adapter;

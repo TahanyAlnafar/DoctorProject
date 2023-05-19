@@ -8,6 +8,7 @@ import com.bumptech.glide.Glide;
 import com.doctors.doctorsfinalproject.databinding.ActivityDoctorsDetailsBinding;
 import com.doctors.doctorsfinalproject.databinding.ActivityEditBinding;
 
+//هان بنعرض التفاصيل للمريض والفيديو
 public class DoctorsDetailsActivity extends AppCompatActivity {
     ActivityDoctorsDetailsBinding binding;
     @Override

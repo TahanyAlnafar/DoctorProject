@@ -34,6 +34,7 @@ import com.google.firebase.storage.UploadTask;
 import java.util.HashMap;
 import java.util.Map;
 
+//للتعديل على البيانات داخل الموضوع
 public class EditActivity extends AppCompatActivity {
 
     ActivityEditBinding binding;

@@ -30,6 +30,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class AllDoctorsAdapter extends RecyclerView.Adapter<AllDoctorsAdapter.viewHolder> {
 
     Context context;

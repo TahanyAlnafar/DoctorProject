@@ -27,6 +27,7 @@ import com.google.firebase.firestore.QuerySnapshot;
 
 import java.util.ArrayList;
 
+//للعناصر المخفية
 public class HiddenDataActivity extends AppCompatActivity {
     ActivityHiddenDataBinding binding;
     HiddenDoctorsAdapter adapter;

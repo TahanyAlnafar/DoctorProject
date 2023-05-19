@@ -39,6 +39,7 @@ import com.google.firebase.firestore.QuerySnapshot;
 import java.util.ArrayList;
 import java.util.List;
 
+//بتعرض للمريض الموضوعات
 public class PatientActivity extends AppCompatActivity {
     ActivityPatientBinding binding;
     DoctorsAdapter adapter;
